@@ -1,0 +1,6 @@
+object Version {
+
+}
+object DaggerHilt{
+
+}
